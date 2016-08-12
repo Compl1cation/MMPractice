@@ -51,6 +51,8 @@
     <Compile Include="IAirplane.cs" />
     <Compile Include="Airport.cs" />
     <Compile Include="ControlTower.cs" />
+    <Compile Include="IControlTower.cs" />
+    <Compile Include="LandingEventArgs.cs" />
     <Compile Include="LowFuelEventArgs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

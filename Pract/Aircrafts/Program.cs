@@ -23,8 +23,7 @@ namespace Aircrafts
             {
                 plane.LowFuel += new EventHandler(ct.Redirect);
             }
-    
-
+            
             while (ct.Airplanes.Any())
             {
                 for (int i = 0; i < ct.Airplanes.Count; i++)
@@ -32,11 +31,10 @@ namespace Aircrafts
                     ct.Airplanes[i].OnLowFuel();
                 }
                 ct.GetLowestFuelPlane(ct.Airplanes);
-                ct.LandPlane(ct.LowestFuelPlane);
+                ct.LandPlane();
                 ct.RecalculateRemainingFuel(ct.TimeElapsed);
                 Console.WriteLine();
             }
-            
         }
     }
 }

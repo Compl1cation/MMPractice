@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aircrafts
 {
-  public class Airport
+  public  class LandingEventArgs : EventArgs
     {
-
+       public int LandingTime { get; set; }
     }
 }

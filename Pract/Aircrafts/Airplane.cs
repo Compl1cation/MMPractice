@@ -3,8 +3,9 @@
 namespace Aircrafts
 {
     public delegate void EventHandler(object sender, LowFuelEventArgs args);
-    public class Airplane : IAirplane
-    {        public delegate void LowFuelDelegate(object sender, LowFuelEventArgs args);
+
+    public abstract class Airplane : IAirplane
+    {  
         public Airplane(string name, double weight, double fuelConsumptionPerHour, int landingTime, double fuelCapacity, int maxPassangers )
         {
             Name = name;
@@ -17,9 +18,14 @@ namespace Aircrafts
         public Airplane()
         {
         }
-        public void CalculateRemainingFuel(int timeElapsed)
+        public virtual void CalculateRemainingFuel(int timeElapsed)
         {
             FuelRemaining -= Math.Round(((timeElapsed / 60.0) * FuelConsumptionPerHour),2);
+        }
+
+        public virtual void Land(int _landingTime)
+        {
+            Console.WriteLine("Plane {0} Recieved Land Request, will take {1} minutes", Name, _landingTime);
         }
         public string Name { get; private set; }
         public double Weight { get; private set; }
@@ -38,7 +44,7 @@ namespace Aircrafts
                 FireLowFuelEvent();
             }
         }
-        public event EventHandler LowFuel;
+        public virtual event EventHandler LowFuel;
         protected void FireLowFuelEvent()
         {
             LowFuel?.Invoke(this, new LowFuelEventArgs() { plane = this});

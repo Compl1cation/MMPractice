@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aircrafts
 {
- sealed class ControlTower
+    sealed class ControlTower : IControlTower
     {
         private static volatile ControlTower _instance;
         private static object syncRoot = new Object();
@@ -30,16 +30,16 @@ namespace Aircrafts
         {
             var _lowestFuel = planes.OrderBy(x => x.FuelRemaining).ThenBy(x => x.FuelConsumptionPerHour).First();
             LowestFuelPlane = _lowestFuel;
-            //LowestFuelPlane = planes.Aggregate((i1, i2) => i1.FuelRemaining < i2.FuelRemaining ? i1 : i2);
             Console.WriteLine();
             Console.WriteLine("Plane with lowest fuel is:{0}", LowestFuelPlane.Name);
             return LowestFuelPlane;
         }
-        public void LandPlane(IAirplane plane)
+        public void LandPlane()
         {
-            TimeElapsed = plane.LandingTime;
-            Airplanes.Remove(plane);
-            Console.WriteLine("LANDED Airplane {0}, TimeElapsed= {1}", plane, TimeElapsed);
+            TimeElapsed = LowestFuelPlane.LandingTime;
+            LowestFuelPlane.Land();
+            Airplanes.Remove(LowestFuelPlane);
+            Console.WriteLine("LANDED Airplane {0}, TimeElapsed= {1}", LowestFuelPlane, TimeElapsed);
         }
 
         public void RecalculateRemainingFuel(int timeElapsed)

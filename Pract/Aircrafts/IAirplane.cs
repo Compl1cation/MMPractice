@@ -17,7 +17,8 @@ namespace Aircrafts
         double FuelConsumptionPerHour { get; }
         int LandingTime { get; }
         void OnLowFuel();
-        
+        void Land();
+
         event EventHandler LowFuel;
     }
 }
