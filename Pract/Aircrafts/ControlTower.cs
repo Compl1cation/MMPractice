@@ -28,7 +28,9 @@ namespace Aircrafts
         }
         public IAirplane GetLowestFuelPlane(List<IAirplane> planes)
         {
-            LowestFuelPlane = planes.Aggregate((i1, i2) => i1.FuelRemaining < i2.FuelRemaining ? i1 : i2);
+            var _lowestFuel = planes.OrderBy(x => x.FuelRemaining).ThenBy(x => x.FuelConsumptionPerHour).First();
+            LowestFuelPlane = _lowestFuel;
+            //LowestFuelPlane = planes.Aggregate((i1, i2) => i1.FuelRemaining < i2.FuelRemaining ? i1 : i2);
             Console.WriteLine();
             Console.WriteLine("Plane with lowest fuel is:{0}", LowestFuelPlane.Name);
             return LowestFuelPlane;
