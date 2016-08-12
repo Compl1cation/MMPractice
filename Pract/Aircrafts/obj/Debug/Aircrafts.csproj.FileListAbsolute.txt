@@ -1,0 +1,6 @@
+D:\PractRepository\Pract\Aircrafts\bin\Debug\Aircrafts.exe.config
+D:\PractRepository\Pract\Aircrafts\bin\Debug\Aircrafts.exe
+D:\PractRepository\Pract\Aircrafts\bin\Debug\Aircrafts.pdb
+D:\PractRepository\Pract\Aircrafts\obj\Debug\Aircrafts.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\Aircrafts\obj\Debug\Aircrafts.exe
+D:\PractRepository\Pract\Aircrafts\obj\Debug\Aircrafts.pdb

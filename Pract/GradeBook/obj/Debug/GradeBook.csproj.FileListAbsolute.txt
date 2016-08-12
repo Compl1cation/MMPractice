@@ -1,0 +1,3 @@
+D:\PractRepository\Pract\GradeBook\bin\Debug\Practice2.exe.config
+D:\PractRepository\Pract\GradeBook\obj\Debug\Practice2.exe
+D:\PractRepository\Pract\GradeBook\obj\Debug\Practice2.pdb

@@ -1,0 +1,12 @@
+D:\PractRepository\Pract\Enums\bin\Debug\Animals.exe.config
+D:\PractRepository\Pract\Enums\bin\Debug\Animals.exe
+D:\PractRepository\Pract\Enums\bin\Debug\Animals.pdb
+D:\PractRepository\Pract\Enums\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\Enums\obj\Debug\Animals.exe
+D:\PractRepository\Pract\Enums\obj\Debug\Animals.pdb
+D:\PractRepository\Pract\Animals\bin\Debug\Animals.exe.config
+D:\PractRepository\Pract\Animals\obj\Debug\Animals.exe
+D:\PractRepository\Pract\Animals\obj\Debug\Animals.pdb
+D:\PractRepository\Pract\Animals\bin\Debug\Animals.exe
+D:\PractRepository\Pract\Animals\bin\Debug\Animals.pdb
+D:\PractRepository\Pract\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\bin\Debug\Practice2.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\bin\Debug\Practice2.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\obj\Debug\Practice2.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\obj\Debug\Practice2.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache

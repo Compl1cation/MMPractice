@@ -1,0 +1,10 @@
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\MyLibrary\bin\Debug\MyLibrary.dll
+D:\PractRepository\Pract\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\PractRepository\Pract\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\MyLibrary\obj\Debug\MyLibrary.dll
+D:\PractRepository\Pract\MyLibrary\obj\Debug\MyLibrary.pdb

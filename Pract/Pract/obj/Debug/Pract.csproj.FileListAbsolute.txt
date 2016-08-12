@@ -1,0 +1,16 @@
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\bin\Debug\Pract.exe.config
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\bin\Debug\Pract.exe
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\bin\Debug\Pract.pdb
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\obj\Debug\Pract.csprojResolveAssemblyReference.cache
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\obj\Debug\Pract.exe
+c:\users\deyan.rusinov\documents\visual studio 2015\Projects\Pract\Pract\obj\Debug\Pract.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Pract\bin\Debug\MyLibrary.dll
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Pract\bin\Debug\MyLibrary.pdb
+D:\PractRepository\Pract\Pract\bin\Debug\Pract.exe.config
+D:\PractRepository\Pract\Pract\bin\Debug\Pract.exe
+D:\PractRepository\Pract\Pract\bin\Debug\Pract.pdb
+D:\PractRepository\Pract\Pract\bin\Debug\MyLibrary.dll
+D:\PractRepository\Pract\Pract\bin\Debug\MyLibrary.pdb
+D:\PractRepository\Pract\Pract\obj\Debug\Pract.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\Pract\obj\Debug\Pract.exe
+D:\PractRepository\Pract\Pract\obj\Debug\Pract.pdb

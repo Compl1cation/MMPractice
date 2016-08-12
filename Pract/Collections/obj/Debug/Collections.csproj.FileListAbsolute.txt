@@ -1,0 +1,11 @@
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Collections\bin\Debug\Collections.exe.config
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Collections\bin\Debug\Collections.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Collections\bin\Debug\Collections.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Collections\obj\Debug\Collections.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\Collections\obj\Debug\Collections.pdb
+D:\PractRepository\Pract\Collections\bin\Debug\Collections.exe.config
+D:\PractRepository\Pract\Collections\obj\Debug\Collections.exe
+D:\PractRepository\Pract\Collections\obj\Debug\Collections.pdb
+D:\PractRepository\Pract\Collections\bin\Debug\Collections.exe
+D:\PractRepository\Pract\Collections\bin\Debug\Collections.pdb
+D:\PractRepository\Pract\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache

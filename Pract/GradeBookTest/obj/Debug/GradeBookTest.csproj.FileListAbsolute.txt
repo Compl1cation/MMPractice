@@ -1,0 +1,8 @@
+D:\PractRepository\Pract\GradeBookTest\bin\Debug\GradeBookTest.dll
+D:\PractRepository\Pract\GradeBookTest\bin\Debug\GradeBookTest.pdb
+D:\PractRepository\Pract\GradeBookTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PractRepository\Pract\GradeBookTest\bin\Debug\Practice2.exe
+D:\PractRepository\Pract\GradeBookTest\bin\Debug\Practice2.pdb
+D:\PractRepository\Pract\GradeBookTest\obj\Debug\GradeBookTest.csprojResolveAssemblyReference.cache
+D:\PractRepository\Pract\GradeBookTest\obj\Debug\GradeBookTest.dll
+D:\PractRepository\Pract\GradeBookTest\obj\Debug\GradeBookTest.pdb

@@ -1,0 +1,11 @@
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\FileControl\bin\Debug\Pract2.exe.config
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\FileControl\obj\Debug\Pract2.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\FileControl\obj\Debug\Pract2.pdb
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\FileControl\bin\Debug\Pract2.exe
+C:\Users\deyan.rusinov\Documents\Visual Studio 2015\Projects\Pract\FileControl\bin\Debug\Pract2.pdb
+D:\PractRepository\Pract\FileControl\bin\Debug\Pract2.exe.config
+D:\PractRepository\Pract\FileControl\obj\Debug\Pract2.exe
+D:\PractRepository\Pract\FileControl\obj\Debug\Pract2.pdb
+D:\PractRepository\Pract\FileControl\bin\Debug\Pract2.exe
+D:\PractRepository\Pract\FileControl\bin\Debug\Pract2.pdb
+D:\PractRepository\Pract\FileControl\obj\Debug\FileControl.csprojResolveAssemblyReference.cache

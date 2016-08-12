@@ -1,0 +1,6 @@
+D:\PractRepository\Pract\Enums\bin\Debug\Enums.exe.config
+D:\PractRepository\Pract\Enums\bin\Debug\Enums.exe
+D:\PractRepository\Pract\Enums\bin\Debug\Enums.pdb
+D:\PractRepository\Pract\Enums\obj\Debug\Enums.exe
+D:\PractRepository\Pract\Enums\obj\Debug\Enums.pdb
+D:\PractRepository\Pract\Enums\bin\Debug\Animal.exe.config

@@ -1,0 +1,5 @@
+D:\PractRepository\Pract\StringBuilder\bin\Debug\StringBuild.exe.config
+D:\PractRepository\Pract\StringBuilder\bin\Debug\StringBuild.exe
+D:\PractRepository\Pract\StringBuilder\bin\Debug\StringBuild.pdb
+D:\PractRepository\Pract\StringBuilder\obj\Debug\StringBuild.exe
+D:\PractRepository\Pract\StringBuilder\obj\Debug\StringBuild.pdb

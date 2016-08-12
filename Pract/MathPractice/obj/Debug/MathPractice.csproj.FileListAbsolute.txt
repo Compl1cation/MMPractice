@@ -1,0 +1,6 @@
+D:\PractRepository\Pract\MathPractice\bin\Debug\MathPractice.exe.config
+D:\PractRepository\Pract\MathPractice\bin\Debug\MathPractice.exe
+D:\PractRepository\Pract\MathPractice\bin\Debug\MathPractice.pdb
+D:\PractRepository\Pract\MathPractice\obj\Debug\MathPractice.exe
+D:\PractRepository\Pract\MathPractice\obj\Debug\MathPractice.pdb
+D:\PractRepository\Pract\MathPractice\obj\Debug\MathPractice.csprojResolveAssemblyReference.cache
